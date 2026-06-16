@@ -1,0 +1,25 @@
+# Dados brutos
+data/*
+!data/.gitkeep
+
+# Arquivos grandes
+*.csv
+*.zip
+*.xlsx
+*.pbix
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ambiente
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
