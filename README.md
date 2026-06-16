@@ -973,10 +973,4 @@ A execução final foi realizada com amostra de 50.000 registros por limitação
 
 ## 30. Considerações Finais
 
-O projeto demonstrou um fluxo completo de dados, partindo da base bruta dos Microdados do ENEM 2020 até a criação de um modelo dimensional em banco MySQL.
-
-A solução contemplou extração, transformação, carga, modelagem, consultas SQL, validação, visualizações e documentação. Mesmo com a execução final em amostra, a arquitetura foi construída para representar um processo escalável e organizado, com separação clara entre as etapas do pipeline.
-
-A utilização de PySpark permitiu estruturar o processamento de dados em grande volume, enquanto o MySQL em Docker garantiu um ambiente padronizado para armazenamento e consulta. O modelo dimensional favoreceu a análise por diferentes perspectivas, como candidato, escola, local de prova e características socioeconômicas.
-
-Com isso, o projeto atende aos principais critérios do desafio técnico, apresentando uma solução organizada, documentada e preparada para evolução futura.
+Projeto  engloba muitas partes tanto texnicas como processuais, mesmo não tendo atingido o resultado esperado na minha visão sabendo que posso fazer um trabalho mais detahado e analitico de mais peso, acredio que foi um bom desafio para tesar meus conhecimentos e também os meios de consulta de informações acreidto que tinha toda a capacidade de fazer um trabalho analitico muito bom, porém com o desafio de usar as ferramentas desejadas, acabo deixando um pouco a desejar comparado com minhas entregas passadas, apartir desse desafio, encontrei minhas fraquezas e reforcei meus acertos do meu caminho, com isso planejo melhorar e evoluir cada vez mais meus conhecimentos e entregas. Obrigado!
