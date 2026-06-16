@@ -767,24 +767,12 @@ outputs/
 
 ## 22. Dashboard Analítico
 
-Devido ao prazo disponível para entrega, foi desenvolvida uma visão analítica simplificada a partir das visualizações geradas no diretório `outputs/`.
+Foi desenvolvido um dashboard em Power BI para visualização dos principais indicadores do projeto.
 
-O conjunto de gráficos permite analisar os principais aspectos solicitados no desafio:
+O arquivo está disponível em:
 
-* Desempenho geral dos candidatos
-* Média por disciplina
-* Média por sexo
-* Média por cor/raça
-* Média por faixa etária
-* Desempenho por dependência administrativa da escola
-* Distribuição das notas
-* Situação da redação
-* Relação entre aspectos socioeconômicos e desempenho
-* Correlação entre as notas
-
-A estrutura do projeto permite que os arquivos gerados sejam importados posteriormente em ferramentas como Power BI, Excel ou Tableau para construção de um dashboard interativo.
-
----
+text
+dashboard/Dashboard_Analise_Regiao_escolas_alunos_enem.pbix
 
 ## 23. Análise de Correlação
 
